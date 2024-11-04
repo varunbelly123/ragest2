@@ -1,0 +1,12 @@
+openai==0.28.0
+streamlit
+python-dotenv
+faiss-cpu
+PyPDF2
+python-docx
+python-pptx
+openpyxl
+nltk
+langchain
+
+
